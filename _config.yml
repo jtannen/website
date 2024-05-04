@@ -4,6 +4,7 @@ email: jonathan.tannen@gmail.com
 description: ""
 baseurl: "" 
 url: "https://jtannen.github.io"
+baseurl: "/website"
 twitter_username: jtannen215
 github_username: jtannen
 
