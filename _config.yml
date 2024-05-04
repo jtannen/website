@@ -1,0 +1,19 @@
+
+title: Jonathan Tannen
+email: jonathan.tannen@gmail.com
+description: ""
+baseurl: "" 
+url: "https://www.jonathantannen.com" # the base hostname & protocol for your site
+twitter_username: jtannen215
+github_username: jtannen
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - research.md
+  - teaching.md
+  - about.md
+
